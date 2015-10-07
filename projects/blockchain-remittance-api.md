@@ -3,7 +3,9 @@ Block Chain Based Remittance API
 
 ### Background
 
-Build an API for a block chain based system of sending remittances.
+Build an API for a blockchain based system of sending remittances.
+
+* [Project Link](https://github.com/nwams/Bank-to-Bank-Block-Chain)
 
 ### Challenge
 
@@ -17,6 +19,10 @@ by a block chain.
 - A bank uses our API to have a secure, and easy traceable channel to instantly transfer money to another bank regardless of location.
 
 - A user can choose our service from a multitude of banks (instead of a wire transfer) to cheaply, quickly, and securely send money to anyone, anywhere.
+
+### First Story
+
+* [Posted on Trello](https://trello.com/b/3a5ameOc/first-story)
 
 ### Further Ideas 
 

@@ -15,4 +15,12 @@ We're preaching a workflow which restricts us from creating multiple job boards 
 
 ### Team
 
-Srinivasa Teja, Sindhu Banavara, Bhagya Cannumalla
+Srinivasa Teja, Sindhu Banavara, Bhagyasri Canumalla
+
+### Stories
+
+* [First Story](https://trello.com/c/O1PGFqAX)
+
+### Repository
+
+* [Bitbucket](https://bitbucket.org/nsteja1/5status/src)

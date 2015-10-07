@@ -11,3 +11,18 @@ The challenge of our project is how to rank cats images. There are some factors 
 ### Team
 
 [Haotian Zhang](/people/haotian-zhang.md), [Mengjue Wang](/people/mengjue-wang.md), [Jeehyun Kim](/people/jeehyun-kim.md)
+
+### First User Story
+Our first user story: [Issue #1](https://github.com/haotianz/daily-kitten/issues/1)
+
+### Project Management
+We are using [Trello](https://trello.com/b/HRdQyjsC/daily-kitten) as project management tool.
+
+### Repository
+[Github Source Code Repo](https://github.com/haotianz/daily-kitten), [Automated Tests Code](https://github.com/haotianz/daily-kitten/tree/master/app/test)
+
+### Automated Test Status
+[![Travis Badge](https://api.travis-ci.org/haotianz/daily-kitten.svg)](https://travis-ci.org/haotianz/daily-kitten)
+
+### Deployment Link
+[Deployment Link](http://ec2-52-88-243-250.us-west-2.compute.amazonaws.com/)
